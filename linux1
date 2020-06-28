@@ -1,0 +1,7 @@
+#!/bin/bash
+# for-loop test script
+names='Jason John Jane'
+for i in $names
+do
+	echo Hello $i
+done
